@@ -24,13 +24,14 @@ We build open infrastructure to help developers verify, debug, and monitor Agent
 ```bash
 wget https://github.com/ucpchecker/cli/releases/download/v1.0.0/ucp-linux-amd64
 chmod +x ucp-linux-amd64
-./ucp-linux-amd64 check yourdomain.com
+./ucp-linux-amd64 check yourdomain.com```
 
 #### Mac (Apple Silicon)
 
+```bash
 wget https://github.com/ucpchecker/cli/releases/download/v1.0.0/ucp-mac-arm64
 chmod +x ucp-mac-arm64
-./ucp-mac-arm64 check yourdomain.com
+./ucp-mac-arm64 check yourdomain.com```
 
 #### Windows
 
